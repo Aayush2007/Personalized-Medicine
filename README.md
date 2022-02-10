@@ -8,8 +8,6 @@ But this is only partially happening due to the huge amount of manual work still
 
 Currently this interpretation of genetic mutations is being done manually. This is a very time-consuming task where a clinical pathologist has to manually review and classify every single genetic mutation based on evidence from text-based clinical literature.
 
-We need to develop a Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations.
-
 More details on : https://www.kaggle.com/c/msk-redefining-cancer-treatment
 
-In order to get the dataset please create a login account to Kaggle and go to this problem statement page(given above) and download 2 dataset training_variants.zip and training_text.zip
+In order to get the dataset, download 2 dataset training_variants.zip and training_text.zip
